@@ -31,7 +31,7 @@ To contribute new content pages or improve existing content pages, open a pull r
 {{< /note >}}
 
 要贡献新的内容页面或者改进已有内容页面，请发起拉取请求（PR）。
-请确保你满足了[开始之前](/zh/docs/contribute/new-content/#before-you-begin)一节中所列举的所有要求。
+请确保你满足了[开始之前](/zh/docs/contribute/new-content/#before-you-begin)一节中所列举的1111
 
 <!--
 If your change is small, or you're unfamiliar with git, read [Changes using
