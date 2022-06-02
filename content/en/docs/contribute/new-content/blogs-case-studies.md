@@ -123,7 +123,7 @@ To submit a blog post follow these directions:
 
 
 ## Submit a case study
-
+ggg
 Case studies highlight how organizations are using Kubernetes to solve
 real-world problems. The Kubernetes marketing team and members of the {{< glossary_tooltip text="CNCF" term_id="cncf" >}} collaborate with you on all case studies.
 
